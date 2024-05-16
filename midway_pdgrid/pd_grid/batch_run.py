@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/home/lim1an/MACSS-40550-Assignment3/midway_pdgrid')
 from model import PdGrid
 from mesa import batch_run
 import numpy as np
